@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/vitacard/static/css/main.d1856507.css",
-    "main.js": "/vitacard/static/js/main.20457671.js",
+    "main.js": "/vitacard/static/js/main.fd959af2.js",
     "static/media/3.jpeg": "/vitacard/static/media/3.ccfc0b9bf22ccf11a77e.jpeg",
     "static/media/2.jpeg": "/vitacard/static/media/2.bb5dc16b2473f78e3fe2.jpeg",
     "static/media/1.jpeg": "/vitacard/static/media/1.d084d4376a9f4d4b7ef3.jpeg",
     "static/media/4.jpeg": "/vitacard/static/media/4.fe1b47388ec2aec78b79.jpeg",
     "index.html": "/vitacard/index.html",
     "main.d1856507.css.map": "/vitacard/static/css/main.d1856507.css.map",
-    "main.20457671.js.map": "/vitacard/static/js/main.20457671.js.map"
+    "main.fd959af2.js.map": "/vitacard/static/js/main.fd959af2.js.map"
   },
   "entrypoints": [
     "static/css/main.d1856507.css",
-    "static/js/main.20457671.js"
+    "static/js/main.fd959af2.js"
   ]
 }
